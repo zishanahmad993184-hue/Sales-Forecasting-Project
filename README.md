@@ -40,4 +40,4 @@ Sales-Forecasting-Project/
 ## 👨‍💻 Author
 **Zishan Ahmad**
 
-GitHub: https://github.com/zishanahmad993184-hue
+Integral university lucknow 
